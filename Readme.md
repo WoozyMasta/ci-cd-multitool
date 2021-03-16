@@ -3,6 +3,7 @@
 [Docker image](https://hub.docker.com/r/woozymasta/ci-cd-multitool)
 with useful tools for CI/CD pipelines
 
+![GitHub](https://img.shields.io/github/license/WoozyMasta/ci-cd-multitool?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/WoozyMasta/ci-cd-multitool?style=flat-square)
 ![Docker Pulls](https://img.shields.io/docker/pulls/woozymasta/ci-cd-multitool?style=flat-square)
 ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/woozymasta/ci-cd-multitool?style=flat-square)
