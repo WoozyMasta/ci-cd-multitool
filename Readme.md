@@ -7,6 +7,7 @@ Based on Alpine
 
 ```bash
 docker pull woozymasta/ci-cd-multitool:latest
+docker run --rm -ti woozymasta/ci-cd-multitool:latest
 ```
 
 Include:
